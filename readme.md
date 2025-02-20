@@ -3,7 +3,7 @@
 ## Dataset Overview
 The DBD dataset is a comprehensive collection of full-field digital mammography (FFDM) images sourced from screening, diagnostic, and follow-up examinations across the five campuses of the affiliated hospital. This dataset is designed to support research in breast cancer detection and analysis, providing a diverse range of mammographic images with detailed annotations.
 ![image](https://github.com/user-attachments/assets/f0be34ca-d61a-4f03-a150-5f9494e45853)
-![image](https://github.com/user-attachments/assets/df924778-4fa8-4fa8-91df-b3ab1244c553)
+
 ## Dataset Composition
 - **Total Cases**: 300 cases  
 - **Image Count**: 1150 images  
@@ -26,7 +26,7 @@ The DBD dataset is a comprehensive collection of full-field digital mammography 
 
 ## Dataset Structure
 The dataset is organized into training and testing sets, with detailed annotations provided in CSV format. The structure is as follows:
-
+![image](https://github.com/user-attachments/assets/df924778-4fa8-4fa8-91df-b3ab1244c553)
 ### CSV File Structure
 1. **Header**: Contains unique identifiers and encoding information.  
 2. **Labels**: Indicates the benign or malignant status of the breast images.  
