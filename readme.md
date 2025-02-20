@@ -15,6 +15,8 @@ The DBD dataset is a comprehensive collection of full-field digital mammography 
   - Architectural distortions  
   - Asymmetries  
   - Multiple lesions  
+![image](https://github.com/user-attachments/assets/f0be34ca-d61a-4f03-a150-5f9494e45853)
+![image](https://github.com/user-attachments/assets/df924778-4fa8-4fa8-91df-b3ab1244c553)
 
 ## Key Features
 1. **Masses**: Defined by three-dimensional presence and well-defined, convex edges, typically observable in both MLO and CC projections.  
